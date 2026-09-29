@@ -1,5 +1,5 @@
 SQL Practice
-Starting SQL from scratch and documenting my practice exercises here
+
 Topics:
 - SELECT
 - WHERE
